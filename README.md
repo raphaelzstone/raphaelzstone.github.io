@@ -1,4 +1,4 @@
-# Raphael Zstone
+# Raphael Stone
 
 The source for [raphaelzstone.github.io](https://raphaelzstone.github.io), a
 personal home for projects, games, experiments, and notes.
